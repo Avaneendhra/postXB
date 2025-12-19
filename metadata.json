@@ -1,0 +1,7 @@
+{
+  "name": "India Post AI Tracker",
+  "description": "Smart predictive parcel tracking for India Post using Gemini AI to anticipate delays from monsoon weather, traffic congestion, and logistics hurdles.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
